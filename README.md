@@ -1,1 +1,1 @@
-creando nustro primer proyecto 
+creando nuestro primer proyecto 
