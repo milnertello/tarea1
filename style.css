@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  
+  height: 100vh;
+}
+.titulo {
+  background-color: rgb(49, 49, 149);
+}
+
+ul li {
+  display: inline-block;
+  list-style: none;
+
+  padding: 15px;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: rgb(21, 235, 153);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(21, 235, 153);
+  padding: 30px;
+}
+h3{
+    text-align: center;
+    color: rgb(21, 235, 153);
+    padding: 20px;
+}
+
+.imagen {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  border-radius: 48%;
+  padding: 2%;
+}
